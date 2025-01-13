@@ -8,3 +8,18 @@ div.first-div {
 div.second-div {
     color:chocolate;
 }
+div.third-div   {
+    color:darkolivegreen
+}
+img {
+    height: 520px;
+    width: 520px;
+    object-fit: cover;
+}
+/* div.text-center {
+    text-align: center;
+} */
+ li     {
+    width: fit-content;
+    margin-inline: auto;
+ }
